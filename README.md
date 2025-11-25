@@ -1,6 +1,8 @@
-<img width="1740" height="837" alt="Screenshot 2025-11-25 153621" src="https://github.com/user-attachments/assets/27f28528-0416-4a53-8783-8b43700a2c45" />
+
 <img width="1776" height="731" alt="Screenshot 2025-11-25 153020" src="https://github.com/user-attachments/assets/25604800-9212-4800-bf16-a91fc7bc83a2" />
-﻿# rag_chatbot
+﻿<img width="923" height="782" alt="Screenshot 2025-11-25 154811" src="https://github.com/user-attachments/assets/62bb764d-e612-48ba-a8a0-b9c09b2ca0e6" />
+
+ # rag_chatbot
 
 📚 LetsRAG Chatbot  
 ### Retrieval-Augmented Generation (RAG) • FAISS Vector Search • Local LLM • PII-Safe • Streamlit UI
@@ -160,4 +162,5 @@ Online/Offline toggle
 
 If You Found This Useful
 Give the repo a ⭐ on GitHub!
+
 
